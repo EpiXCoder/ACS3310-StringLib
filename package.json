@@ -1,5 +1,5 @@
 {
-  "name": "stringlib",
+  "name": "stringamabob",
   "version": "1.0.0",
   "description": "A JS library for strings.",
   "main": "index.js",
@@ -7,8 +7,13 @@
     "test": "jest",
     "lint": "eslint . --fix"
   },
-  "author": "",
+  "author": "Vithusha Ravirajan <vithusha.ravirajan@gmail.com> (http://www.github.com/EpiXCoder)",
   "license": "ISC",
+  "keywords": [
+    "string", "manipulation", "formatting", "conversion", "transformation", "capitalize", 
+    "uppercase", "lowercase", "kebob-case", "snake-case", "camel-case", "shift", "hashtag", 
+    "whitespace", "trim", "split", "join", "utility", "functions", "javascript", "toolkit"
+  ],
   "devDependencies": {
     "eslint": "^8.47.0",
     "eslint-config-airbnb-base": "^15.0.0",
