@@ -1,7 +1,7 @@
 
 # String Functions Library
-![version](https://img.shields.io/npm/v/custom-profanity-filter.svg)
-![downloads](https://img.shields.io/npm/dm/custom-profanity-filter.svg)
+![version](https://img.shields.io/npm/v/stringamabob.svg)
+![downloads](https://img.shields.io/npm/dm/stringamabob.svg)
 
 A library of JavaScript functions for various string manipulations.
 
