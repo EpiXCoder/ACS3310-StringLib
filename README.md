@@ -5,16 +5,19 @@ A library of JavaScript functions for various string manipulations.
 
 ## Installation
 
-```bash
+```
 npm install [my-library-name]  
-
+```
 
 ## API
 
 ### 1. capitalize(str)
 
 - **Description**: Capitalizes the first letter of the string.
-- **Example**: `capitalize('hello')` returns "Hello"
+- **Example**: 
+````
+capitalize('hello') //returns "Hello"
+```
 
 ### 2. allCaps(str)
 
