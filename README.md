@@ -1,6 +1,5 @@
 
 # Stringamabob
-A String Functions Library
 
 ![version](https://img.shields.io/npm/v/stringamabob.svg)
 ![downloads](https://img.shields.io/npm/dm/stringamabob.svg)
